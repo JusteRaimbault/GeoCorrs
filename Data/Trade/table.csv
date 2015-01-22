@@ -1,0 +1,215 @@
+Availability of Data in NBER World Trade Data Base,,
+   NBER-UN,,
+Code,Name,Availability of Data
+100000,World    ,1962-2000  
+117100,South Africa,1962-2000   
+130120,Algeria,1962-2000  
+134340,Libya,1962-2000
+135040,Morocco,1962-2000
+137360,Sudan,1962-2000
+137880,Tunisia,1962-2000
+138180,Egypt   ,1962-2000   
+138960,North Africa NES,1997-1998
+141200,Cameroon,1962-2000
+141400,Cent.Afr.Rep   ,1962-2000
+141480,Chad,1962-2000
+141780,Congo,1962-2000   
+142660,Gabon  ,1962-2000
+160240,Angola,1962-2000
+161080,Burundi,1962-2000
+161800,Dem. Rp. Congo   ,1962-2000
+162040,Benin  ,1962-2000
+162260,Eq. Guinea      ,1962-2000
+162300,Ethiopia,1962-2000
+162620,Djibouti,1962-2000   
+162700,Gambia   ,1962-2000   
+162880,Ghana,1962-2000   
+163240,Guinea  ,1962-2000   
+163840,Côte d'Ivoire,1962-2000   
+164040,Kenya     ,1962-2000   
+164300,Liberia   ,1962-2000   
+164500,Madagascar,1962-2000   
+164540,Malawi  ,1964-2000   
+164660,Mali   ,1962-2000   
+164780,Mauritania   ,1962-2000   
+164800,Mauritius,1962-2000   
+165080,Mozambique,1962-2000   
+165620,Niger,1962-2000   
+165660,Nigeria,1962-2000   
+166240,Guinea Bissau,1962-2000
+166380,French Indian Ocean Territories1,1962-2000   
+166460,Rwanda  ,1963-2000   
+166540,St.Helena      ,1970-2000   
+166860,Senegal,1962-2000   
+166900,Seychelles,"1963-1966, 1969-2000"
+166940,Sierra Leone   ,1962-2000   
+167060,Somalia,1962-2000   
+167160,Zimbabwe,1963-2000   
+167680,Togo   ,1962-2000   
+168000,Uganda,1962-2000   
+168340,Tanzania,1962-2000   
+168540,Burkina Faso,1962-2000
+168940,Zambia,1962-2000   
+168960,Afr. Other  NES   ,1984-2000
+211240,Canada  ,1962-2000   
+218400,USA,1962-2000   
+220600,Bermuda,1962-2000   
+223040,Greenland,"1962, 1964-1968, 1970-2000   "
+226660,St.Pierre and Miquelon   ,1962-2000   
+330320,Argentina  ,1962-2000   
+330680,Bolivia,1962-2000   
+330760,Brazil  ,1962-2000   
+331520,Chile,1962-2000   
+331700,Colombia  ,1962-2000   
+332180,Ecuador,1962-2000   
+334840,Mexico,1962-2000   
+336000,Paraguay  ,1962-2000   
+336040,Peru  ,1962-2000   
+338580,Uruguay,1962-2000   
+338620,Venezuela,1962-2000   
+338960,Latin America Integration Association NES       ,"1986-1987, 1990-1994, 1997-2000"
+341880,Costa Rica     ,1962-2000   
+342220,El Salvador    ,1962-2000   
+343200,Guatemala,1962-2000   
+343400,Honduras   ,1962-2000   
+345580,Nicaragua,1962-2000   
+348960,CACM NES2      ,"1989, 1992-2000"
+350440,Bahamas,1962-2000   
+350520,Barbados,1962-2000   
+351920,Cuba,1962-2000
+352140,Dominican Rp   ,1962-2000
+353120,Guadeloupe  ,1962-1999
+353320,Haiti      ,1962-2000
+353880,Jamaica,1962-2000
+355320,Neth.Ant.Aru   ,1962-2000
+356580,St.Kt-Nev-An3   ,1962-2000   
+357800,Trinidad and Tobago   ,1962-2000   
+358960,Carib. NES     ,"1984-1988, 1992-1993   "
+360800,British Antartic Territories,"1971, 1973, 1975-1977, 1981, 1983, 1986   "
+360840,Belize,"1962, 1964-1967, 1969-2000   "
+362380,Falkland Is    ,1970-2000   
+362540,Fr.Guiana      ,1962-1999   
+363280,Guyana,1962-2000
+365900,Panama,1962-2000   
+367400,Suriname,1962-2000   
+368960,US NES4,1962-2000   
+413760,Israel   ,1962-2000   
+413920,Japan,1962-2000   
+440480,Bahrain,1962-2000   
+441960,Cyprus,1962-2000   
+442750,Occ.Pal.Terr   ,2000
+443640,Iran,1962-2000   
+443680,Iraq    ,1962-2000   
+444000,Jordan  ,1962-2000   
+444140,Kuwait,1962-2000   
+444220,Lebanon,1962-2000   
+445120,Oman  ,1962-2000   
+445360,Neutral Zone   ,"1970-1981, 1984-1985, 1990-1992, 1995-2000   "
+446340,Qatar  ,1962-2000   
+446820,Saudi Arabia   ,1962-2000   
+447200,Fm Yemen Democratic    ,1962-1990   
+447600,Syria  ,1962-2000   
+447840,Untd Arab Em   ,"1962-1964, 1967-2000   "
+447920,Turkey  ,1962-2000   
+448790,Asia West NS   ,1984-2000   
+448860,Fm Yemen Arab Rep.    ,1962-1990   
+448870,Yemen  ,1991-2000   
+450000,Asia NES5,1962-2000   
+450040,Afghanistan,1962-2000   
+450500,Bangladesh,1972-2000   
+451040,Myanmar,1962-2000   
+451160,Cambodia  ,1962-2000   
+451440,Sri Lanka      ,1962-2000   
+453440,China HK SAR   ,1962-2000   
+453560,India,1962-1999   
+453600,Indonesia  ,1962-2000   
+454100,Korea Rep.     ,1962-2000   
+454180,Lao People's Democratic Rep    ,1962-2000   
+454460,China MC SAR   ,"1962-1964, 1969-2000   "
+454580,Malaysia,1962-2000   
+455240,Nepal,1962-2000   
+455860,Pakistan  ,1962-2000   
+456080,Philippines,1962-2000   
+457020,Singapore,1962-2000   
+457640,Thailand   ,1962-2000   
+458960,Taiwan,1962-2000   
+460310,Azerbaijan,1992-2000   
+460510,Armenia,1992-2000   
+462680,Georgia  ,1992-2000   
+463980,Kazakhstan,1992-2000   
+464170,Kyrgyzstan   ,1992-2000   
+467620,Tajikistan,1992-2000   
+467950,Turkmenistan,1992-2000   
+468600,Uzbekistan  ,1992-2000   
+481560,China,1962-2000
+481562,China Special Categories,1985-1986
+484080,Korea Democratic People's Rep   ,1962-2000   
+484960,Mongolia,1962-2000   
+487040,Viet Nam       ,1962-2000   
+530560,Belgium-Lux    ,1962-2000   
+532080,Denmark  ,1962-2000   
+532500,"France,Monac   ",1962-2000   
+532760,Germany,1991-2000   
+532800,Fm German FR   ,1962-1990   
+533000,Greece,1962-2000   
+533720,Ireland   ,1962-2000   
+533800,Italy,1962-2000   
+535280,Netherlands,1962-2000   
+536200,Portugal   ,1962-2000   
+537240,Spain,1962-2000   
+538260,UK,1962-2000   
+538960,EEC NES6,1984-2000   
+550400,Austria,1962-2000   
+552460,Finland   ,1962-2000   
+553520,Iceland    ,1962-2000   
+555780,Norway   ,1962-2000   
+557520,Sweden,1962-2000   
+557560,"Switz., Liecht   ",1962-2000   
+558960,Eur. EFTA NS   ,1996
+572920,Gibraltar,1962-2000
+574700,Malta,1962-2000
+578960,Eur. Other NES,1984-2000
+580080,Albania   ,1962-2000   
+581000,Bulgaria,1962-2000   
+581120,Belarus,1992-2000   
+582000,Czechoslovakia,1962-1992   
+582030,Czech Rep      ,1993-2000   
+582210,E Europe NES,"1987, 1989-1993, 1999-2000   "
+582330,Estonia,1992-2000
+582780,Fm German DR   ,1962-1990   
+583480,Hungary,1962-2000   
+584280,Latvia,1992-2000   
+584400,Lithuania   ,1992-2000
+584980,Rep Moldova    ,1992-2000   
+586160,Poland  ,1962-2000   
+586420,Romania,1962-2000   
+586430,Russian Fed7   ,1996-2000   
+587030,Slovakia,1993-2000
+588040,Ukraine,1992-2000   
+590700,Bosnia and Herzg   ,1992-2000   
+591910,Croatia      ,1992-2000   
+597050,Slovenia,1992-2000   
+598070,The Fm. Yugoslav Rep. Macedna   ,1993-2000   
+598900,Fm Yugoslavia ,1962-1991   
+598910,Yugoslavia,1992-2000   
+688100,Fm USSR        ,1962-1991   
+710360,Australia  ,1962-2000   
+715540,New Zealand    ,1962-2000   
+722420,Fiji,1962-2000   
+722960,Kiribati,1962-2000   
+725400,New Calednia   ,1962-2000   
+725980,Papua N.Guin   ,1962-2000   
+728882,Samoa,1962-2000   
+728960,Oth.Oceania NES,1984-2000   
+908960,Areas NES,"1962-1983, 1985, 1991-2000   "
+Notes:,,
+"1. French Indian Ocean Territories include Comoros, French South Antartic Territories, and Reunion.",,
+2. CACM: Central American Common Market.,,
+"3. St. Kt-Nev-An includes Antigua and Barbuda, British Virgin Islands, ",,
+"    Dominica, Grenada, Montserrat, Former St. Kitts/Nev/Anguilla (until 1980), "
+"    St. Kitts and Nevis, Anguilla, St. Lucia, and St. Vincent and the Grenadines."
+"4. US NES includes Former Pacific Islands (until 1991), Micronesia, Federal"
+"    States of, Marshall Islands, Palau and US Miscellaneous Pacific Islands."
+5. Asia NES includes Bhutan and Brunei Darussalam.
+6. EEC NES refers to European Union Not Elsewhere Specified.
+7. Import data for Russian Federation (1992-1995) are missing.
