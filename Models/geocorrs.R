@@ -18,7 +18,8 @@ data(countriesCoarseLessIslands)
 # same with algebric ?
 
 # example : France -> Ireland
-plot(1962:2000,d[19154,5:p],xlab='year',ylab='FR->UK')
+years = 1962:2000;
+plot(1962:2000,d[1,5:p],xlab='year',ylab='World')
 
 
 
@@ -62,11 +63,11 @@ drawNetwork <- function(matrix,threshold){
         
       if(matrix[i,j]>threshold){
          w = matrix[i,j]
-         colindex <- floor(99 * w) + 1
-         c <- colorRampPalette(c("yellow", "darkred"))(100)[colindex]
+         colindex <- floor(99 * (w-threshold)/(1-threshold)) + 1
+         c <- colorRampPalette(c("lightblue", "darkred"))(100)[colindex]
          segments(countriesCoords[i,1],countriesCoords[i,2],
                   countriesCoords[j,1],countriesCoords[j,2],
-                  col=c,lwd=w*10)
+                  col=c,lwd=w*7)
       }
     }
   }
@@ -102,7 +103,7 @@ for(i in 1:N){
 }
 
 # visualize trade NW (quantities ?)
-
+drawNetwork(flows[,,29],0.55)
 
 
 # construct phi_i
@@ -115,13 +116,17 @@ for(i in 1:N){
   cum_flows[i,]=cum
 }
 
+cum_flows=(cum_flows-min(cum_flows))+1
+
 # construct returns by integration
-LR = matrix(nrow=N,ncol=(p-4))
+LR = matrix(nrow=N,ncol=(p-5))
 for(i in 1:N){
-  LR[i,]=cum_flows[i,]/cumsum(cum_flows[i,])
+  Ki=cumsum(cum_flows[i,]);
+  LR[i,]=diff(log(Ki))
 }
 
-
+# direct cor matrix
+cor(t(LR))
 
 # construct matrix of relative returns
 
