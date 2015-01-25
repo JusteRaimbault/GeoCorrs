@@ -1,0 +1,2 @@
+anada"       "China"        "Germany"      "Indonesia"    "Japan"       
+ [6] "Russian Fed"  "Saudi Arabia" "Spain"        "UK"           "USA"  

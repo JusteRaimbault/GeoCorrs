@@ -1,0 +1,33 @@
+--- 10 most important cum balances
+inds=which(abs(s)>(max(abs(s))/10))
+countries[inds]
+
+--> 
+"Canada"       "China"        "Germany"      "Indonesia"    "Japan"       
+"Russian Fed"  "Saudi Arabia" "Spain"        "UK"           "USA"  
+
+- /20
+"Belgium-Lux"  "Canada"       "China"        "France,Monac" "Germany"     
+ [6] "Greece"       "Indonesia"    "Iran"         "Japan"        "Korea Rep."  
+[11] "Netherlands"  "Nigeria"      "Portugal"     "Russian Fed"  "Saudi Arabia"
+[16] "Spain"        "Sweden"       "Switz.Liecht" "Turkey"       "UK"          
+[21] "USA"          "Venezuela" 
+
+[Not exactly power law]
+
+/30
+--> 
+"Austria"      "Belgium-Lux"  "Brazil"       "Canada"       "China"       
+ [6] "Egypt"        "Finland"      "France,Monac" "Germany"      "Greece"      
+[11] "Indonesia"    "Iran"         "Iraq"         "Ireland"      "Israel"      
+[16] "Japan"        "Korea Rep."   "Kuwait"       "Libya"        "Malaysia"    
+[21] "Netherlands"  "Nigeria"      "Norway"       "Panama"       "Poland"      
+[26] "Portugal"     "Russian Fed"  "Saudi Arabia" "Spain"        "Sweden"      
+[31] "Switz.Liecht" "Taiwan"       "Turkey"       "UK"           "Untd Arab Em"
+[36] "USA"          "Venezuela"  
+
+[Or power law in other exp alpha ?]
+--> not useful
+Better fit the histogram ; but out of purpose here !
+
+
